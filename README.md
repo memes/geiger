@@ -2,8 +2,8 @@ Enhanced firmware for SparkFun geiger counter
 =============================================
 
 Custom firmware for SparkFun geiger counter
-(https://www.sparkfun.com/products/10742) with an attached SparkFun
-LCD kit (https://www.sparkfun.com/products/9395). Designed to allow
+(http://www.sparkfun.com/products/10742) with an attached SparkFun
+LCD kit (http://www.sparkfun.com/products/9395). Designed to allow
 the geiger counter to be used without a computer - I am using mine
 with an external Mophie powerpack.
 
@@ -24,7 +24,7 @@ Known issues
 if using computer to capture output via USB
 
 Inspired by aaron's original firmware
-(github.com/a1ronzo/SparkFun-Geiger-Counter) but re-written to be
+(http://github.com/a1ronzo/SparkFun-Geiger-Counter) but re-written to be
 almost entirely interrupt based instead of polling/delay loops.
 
 All files are released under Creative Commons Attribution:
