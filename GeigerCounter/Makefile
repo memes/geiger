@@ -1,3 +1,7 @@
+# 
+# All files are released under Creative Commons Attribution:
+# http://creativecommons.org/licenses/by/3.0/
+
 # Sparkfun geiger counter properties
 MCU := atmega328p
 F_CPU := 8000000
@@ -70,6 +74,7 @@ dumpvars:
 clean:
 	@$(RM) $(TGT).map $(TGT).elf $(TGT).hex $(GDBINIT)
 	@$(RM) $(OBJS)
+	@$(RM) $(DEPS)
 
 realclean: clean
 	@$(RM) *~
