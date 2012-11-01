@@ -8,8 +8,11 @@ the geiger counter to be used without a computer - I am using mine
 with an external Mophie powerpack.
 
 * Supports attached 16x2 LCD on TX pin
+
     First line: count/second and peak count/second
+
     Second line: count/minute and peak count/minute
+
 * Count/minute calculated based on last 60 samples
 * Uses interrupts for updating UART, etc; as few busy/wait loops as
 possible
