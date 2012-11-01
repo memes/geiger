@@ -1,5 +1,6 @@
 Enhanced firmware for SparkFun geiger counter
-===========================================
+=============================================
+
 Custom firmware for SparkFun geiger counter
 (https://www.sparkfun.com/products/10742) with an attached SparkFun
 LCD kit (https://www.sparkfun.com/products/9395). Designed to allow
