@@ -1,0 +1,10 @@
+# Ignore emacs temp files, generated hex files and depends files
+\#*
+.#*
+.*~
+*~
+*.o
+*.hex
+*.elf
+*.map
+*.d
